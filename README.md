@@ -1,6 +1,5 @@
 # PyScript
-Hamoye Premier Project Proposal Topic: Predictive Modeling of Policy Impact on Refugee Numbers
-Hamoye Premier Project Proposal
+Hamoye Premier Project 
 Topic: Predictive Modeling of Policy Impact on Refugee Numbers
 Introduction
 The scale and severity of humanitarian displacements are on the rise. According to 
