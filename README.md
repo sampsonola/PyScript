@@ -43,8 +43,8 @@ Current methods for understanding the impact of policies on refugee movements ar
 **Prediction problem definition and modeller decisions:**
 The subsequent step involves structuring the prediction problem itself. We delineate nine crucial decisions that need to be made, including determining the unit of analysis, defining the time horizon, selecting the target variable, identifying the feature variables, addressing missing data and data quality issues, deciding on the modelling approach, outlining the model selection process, determining how to assess performance, and planning the deployment of the resulting models.
 
-*The summary of this approach can be seen in the table below:*
 
+*The summary of this approach can be seen in the table below:*
 ### Expected Outcomes
 
 1. Identification of Key Trends: The research will uncover key trends and patterns in global refugee statistics, providing insights into the factors influencing refugee flows.
@@ -54,5 +54,4 @@ The subsequent step involves structuring the prediction problem itself. We delin
 5. Improved Policy Planning: The research outcomes will facilitate more informed and strategic decision-making in developing and implementing refugee policies at both national and international levels.
 
 ### Conclusion
-
 This project not only seeks to construct robust models for identifying the policies influencing refugee displacement but also to leverage these models to provide policymakers and humanitarian organizations with crucial data-driven insights. By understanding the potential impact of policies on refugee movements, stakeholders can develop more effective and responsive refugee policies, ultimately improving outcomes for refugees worldwide.
