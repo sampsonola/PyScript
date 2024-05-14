@@ -22,7 +22,6 @@ topics
 
 ---
 Recently, increased access to data and advancements in computational methods have enabled the construction of machine learning models for predicting displacement. This research aims to contribute to this progress by developing robust models that will assist decision-makers in identifying the most significant policies affecting refugee displacement.
----
 
 ### Problem Statement
 
