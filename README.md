@@ -20,7 +20,9 @@ explores the links between forced migration and development.
 Policy Institute offers policy analysis and research on various migration 
 topics
 
+---
 Recently, increased access to data and advancements in computational methods have enabled the construction of machine learning models for predicting displacement. This research aims to contribute to this progress by developing robust models that will assist decision-makers in identifying the most significant policies affecting refugee displacement.
+---
 
 ### Problem Statement
 
@@ -38,11 +40,10 @@ Current methods for understanding the impact of policies on refugee movements ar
 
 **Dataset:** [UN Economic and Social Affair](https://unstats-undesa.opendata.arcgis.com/datasets/059c8f2ce007428c9a1e8f11b9508852_0/explore?location=87.553304%2C56.254040%2C1.81)
 
-Prediction problem definition and modeller decisions:
-
+**Prediction problem definition and modeller decisions:**
 The subsequent step involves structuring the prediction problem itself. We delineate nine crucial decisions that need to be made, including determining the unit of analysis, defining the time horizon, selecting the target variable, identifying the feature variables, addressing missing data and data quality issues, deciding on the modelling approach, outlining the model selection process, determining how to assess performance, and planning the deployment of the resulting models.
 
-The summary of this approach can be seen in the table below:
+*The summary of this approach can be seen in the table below:*
 
 ### Expected Outcomes
 
