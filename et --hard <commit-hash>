@@ -1,0 +1,151 @@
+[33mcommit cee853fb1cd1a6f58ac1aab0f933e2e811e20f8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mridwan[m[33m)[m
+Merge: c49bc9f 7845fa0
+Author: aljebra school <48502023+aljebraschool@users.noreply.github.com>
+Date:   Thu May 16 17:13:55 2024 +0000
+
+    resolve conflict
+
+[33mcommit c49bc9f68b88300a6b08a2cf93557f820e8e0777[m
+Author: aljebra school <48502023+aljebraschool@users.noreply.github.com>
+Date:   Thu May 16 16:17:36 2024 +0000
+
+    implemented model building
+
+[33mcommit 7845fa0fb2c9f2fa8f7126efada975f0e3405bfa[m[33m ([m[1;32mmain[m[33m)[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Thu May 16 14:14:07 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit deb65ded4459f6ed57cb4653d195d1f6cd014066[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 19:16:59 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit c58389c3d9465f91124f66968c134e24b62abef6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 15:28:46 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit e9ae559a11436e8aab992f00795e4e8e0a1c4ef4[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 13:17:06 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit ec8a946ec07bef6d77a5cc3d1283e3e34e24236f[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 07:35:45 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit db79f17a37322e93ba6327c6a13d1735016420a3[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 07:28:50 2024 +0100
+
+    change the dataset because of an error
+    
+    I forgot to copy the dataset before performing an operation hence the need  replace the dataset
+
+[33mcommit 963a98ac45f9bbcdf51dfbef248c3c6ce14d650a[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 06:27:18 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit 81efb11e837199a963f866cab0cef7ee7ab46535[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 06:25:56 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit c1dad97c4f6ae9a4d6f84d715b4b2cfecdfd8389[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Wed May 15 06:06:20 2024 +0100
+
+    change the name of the dataset
+
+[33mcommit 657477cc6e939faf38ce115ffba8bbd98dcdfb97[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Tue May 14 23:58:35 2024 +0100
+
+    Update Hamoye Project.ipynb
+
+[33mcommit 14a8e82f15cc251560ffa0df40dac4f62af81ba8[m
+Merge: 8ae0fd4 ad81c2d
+Author: Chinyere  Obi <134940692+Mayreeobi@users.noreply.github.com>
+Date:   Tue May 14 18:57:39 2024 +0100
+
+    Merge pull request #1 from Mayreeobi/main
+    
+    Add files via upload
+
+[33mcommit ad81c2d84693c04bc167627d709e07dc026b2d59[m
+Author: Chinyere  Obi <134940692+Mayreeobi@users.noreply.github.com>
+Date:   Tue May 14 18:51:57 2024 +0100
+
+    Add files via upload
+    
+    Data cleaning done by Chinyere
+
+[33mcommit 8ae0fd4809f7647e0e4c78920e191b1b6d5b1730[m
+Author: Akinrotimi Dominion <134118389+DominionAkinrotimi@users.noreply.github.com>
+Date:   Tue May 14 18:24:45 2024 +0100
+
+    Update README.md
+
+[33mcommit 900229387283e34da2732351dc83728cf9e7a68b[m
+Author: Akinrotimi Dominion <134118389+DominionAkinrotimi@users.noreply.github.com>
+Date:   Tue May 14 18:22:25 2024 +0100
+
+    Update README.md
+
+[33mcommit 6006d08e4373dd9e5b774ad697caa3c0f0a9bcab[m
+Author: Akinrotimi Dominion <134118389+DominionAkinrotimi@users.noreply.github.com>
+Date:   Tue May 14 18:21:44 2024 +0100
+
+    Update README.md
+
+[33mcommit cdbd4c7f91efa7d339cec847520f5efd1a80a2d9[m
+Author: Akinrotimi Dominion <134118389+DominionAkinrotimi@users.noreply.github.com>
+Date:   Tue May 14 18:18:05 2024 +0100
+
+    Update README.md
+
+[33mcommit fef584a47f3f2f885917c8a713a621f872b88eb2[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Tue May 14 18:02:32 2024 +0100
+
+    official notebook for the project
+    
+    official notebook for the project
+
+[33mcommit f8e125761a0e3a2f8cbfeed27bf39ba131b161ee[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Tue May 14 17:29:50 2024 +0100
+
+    Create SM_POP_REFG_OR_10_7_4_2021Q2G03_5888662355695205822.csv
+    
+    raw data for the project
+
+[33mcommit fa5e04cc86ffc7a026c7e09e37f8f7a5c4adc759[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Sun May 12 19:58:12 2024 +0100
+
+    Update README.md
+
+[33mcommit ef881837ddeb957559e5ef9bdf56ebd2adb31569[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Sun May 12 19:56:16 2024 +0100
+
+    Update README.md
+    
+    Research Proposal
+
+[33mcommit 069388182e4dc6f18c378eec76d0c8e725a9b549[m
+Author: sampsonola <68962381+sampsonola@users.noreply.github.com>
+Date:   Sun May 12 19:52:28 2024 +0100
+
+    Initial commit
